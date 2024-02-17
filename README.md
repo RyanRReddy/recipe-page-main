@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-recipe-page-using-html-and-css-hovFm3NTd0]
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-7seKttQrbd]
 - Live Site URL: [https://ryanrreddy.github.io/recipe-page-main/]
 
 ## My process
